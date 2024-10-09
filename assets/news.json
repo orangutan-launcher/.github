@@ -1,6 +1,9 @@
 [
   {
     "label": "Orangutan Launcher v0.1",
-    "path": "./news/v0-1.md"
+    "data": "1728447738",
+    "path": "./news/v0-1.md",
+    "icon": "./assets/images/missing.png",
+    "banner": "./assets/images/missing.png"
   }
 ]
